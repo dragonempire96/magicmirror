@@ -13,6 +13,7 @@
                 "Das wird ein schöner Tag!",
                 "Ist der Tag nicht großartig?",
                 "Mach dich bereit für einen großartigen Tag!",
+                "Hol sie dir, Tiger!",		
         ],
         "afternoon" : [
                 "Mache noch schnell deine Arbeit fertig ...",
@@ -29,5 +30,5 @@
         ]
         "....-01-01": [
                 "Frohes neues Jahr!"
-		    ]
+	]
 }
