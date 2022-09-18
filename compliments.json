@@ -1,32 +1,106 @@
 {
         "anytime" : [
-                "Du siehst heute großartig aus!",
-                "Heute ist ein großartiger Tag!",
-                "Du machst den unterschied!",
-                "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
-                "Schaust du noch immer in den Spiegel?",
-                "Der Spiegel sagt: 'Hallo!'",
+                //"Du siehst heute großartig aus!",
+                //"Heute ist ein großartiger Tag!",
+                //"Du machst den unterschied!",
+                //"Ein wunderschönes Lächeln, für einen wunderschönen Tag",
+                //"Schaust du noch immer in den Spiegel?",
+                //"Der Spiegel sagt: 'Hallo!'",
+                "Hey there sexy!",
         ],
         "morning" : [
-                "Dein Haar ist mega heute!",
-                "Beginne den Tag mit einem Lächeln",
-                "Das wird ein schöner Tag!",
-                "Ist der Tag nicht großartig?",
-                "Mach dich bereit für einen großartigen Tag!",
-                "Hol sie dir, Tiger!",		
+                //"Dein Haar ist mega heute!",
+                //"Beginne den Tag mit einem Lächeln",
+                //"Das wird ein schöner Tag!",
+                //"Ist der Tag nicht großartig?",
+                //"Mach dich bereit für einen großartigen Tag!",
+                "Hol sie dir, Tiger!",	
+                "Guten Morgen Sonnenschein!",
+                "Wer braucht Kaffee, wenn du lächelst?",
         ],
         "afternoon" : [
-                "Mache noch schnell deine Arbeit fertig ...",
-                "Nachmittag, nicht Morgen, nicht Mittag",
-                "Dieser Tag ist großartig",
-                "Beinahe Abendessenszeit!",
+                //"Mache noch schnell deine Arbeit fertig ...",
+                //"Nachmittag, nicht Morgen, nicht Mittag",
+                //"Dieser Tag ist großartig",
+                //"Beinahe Abendessenszeit!",
+                //"Hitting your stride!",
+                "Du machst den Unterschied!",
+                "Du machst mehr Spaß als Luftpolsterfolie!"
         ],
         "evening" : [
-                "Nur ein paar Anrufe zu erledigen ...",
-                "Guten Apetit",
+                //"Nur ein paar Anrufe zu erledigen ...",
+                //"Guten Apetit",
                 "Yeah, Freizeit",
                 "Du machst den Unterschied",
-                "War das Essen gut?",
-        ]
-       
+                //"War das Essen gut?",
+                "Du hast heute jemanden zum Lächeln gebracht, ich weiß es.",
+                //"The day was better for your efforts."
+        ],
+        "....-01-01" : [
+                "Frohes neues Jahr!"
+	],
+        "....-10-31" : [
+                "Happy Halloween!"
+	],
+        "....-12-24" : [
+                "Frohe Weihnachten!"
+	],
+        "....-12-25" : [
+                "Frohe Weihnachten!"
+	],
+        "....-12-26" : [
+                "Frohe Weihnachten!"
+	],
+        "....-12-31" : [
+                "Silverster! Lass es ordentlich krachen!",
+	],
+        day_sunny: [
+                "Heute ist ein sonniger Tag", 
+                "Es ist ein schöner Tag",
+	],
+        day_cloudy: [
+                ""
+        ],
+        cloudy: [
+                ""
+        ],
+        cloudy_windy: [
+                ""
+        ],
+        showers: [
+                ""
+        ],
+	rain: [
+		"Vergiss deinen Regenschirm nicht"
+	],
+        thunderstorm: [
+                ""
+        ],
+	snow: [
+		"Schneeballschlacht!"
+	],
+        fog: [
+                ""
+        ],
+        night_clear: [
+                ""
+        ],
+        night_cloudy: [
+                ""
+        ],
+        night_showers: [
+                ""
+        ],
+        night_rain: [
+                ""
+        ],
+        night_thunderstorm: [
+                ""
+        ],
+        night_snow: [
+                ""
+        ],
+        night_alt_cloudy_windy: [
+                ""
+        ],
 }
