@@ -36,7 +36,7 @@
                 "Du hast heute jemanden zum Lächeln gebracht, ich weiß es.",
                 //"The day was better for your efforts."
         ],
-        "....-01-01" : [
+        /*"....-01-01" : [
                 "Frohes neues Jahr!"
 	],
         "....-10-31" : [
@@ -102,5 +102,5 @@
         ],
         night_alt_cloudy_windy: [
                 ""
-        ],
+        ],*/
 }
