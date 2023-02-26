@@ -1,0 +1,107 @@
+{
+        "anytime" : [
+                "You look great today!",
+                "Today is a great day!",
+                "You make all the difference!",
+                "A beautiful smile, for a beautiful day",
+                "Are you still looking in the mirror?",
+                "The mirror says: 'Hello!'",
+                "Hey there sexy!",
+        ],
+        "morning" : [
+                "Your hair is mega today!",
+                "Start the day with a smile",
+                "It's going to be a beautiful day!",
+                "Isn't the day great?",
+                "Get ready for a great day!",
+                "Go get 'em, Tiger!",	
+                "Good morning sunshine!",
+                "Who needs coffee when you're smiling?",
+        ],
+        "afternoon" : [
+                "Finish your work quickly ...",
+                "afternoon, not morning, not noon",
+                "This day is great",
+                "Almost dinner time!",
+                "Hitting your stride!",
+                "You make all the difference!",
+                "You're more fun than bubble wrap!"
+        ],
+        "evening" : [
+                "Just a few calls to make ...",
+                "Bon apetit",
+                "Yeah, free time",
+                "You make all the difference",
+                "Was dinner good?",
+                "You made someone smile today, I know you did",
+                "The day was better for your efforts."
+        ],
+        "....-01-01" : [
+                "Happy New Year!"
+	      ],
+        "....-10-31" : [
+                "Happy Halloween!",
+                "Boo!!!"
+	      ],
+        "....-12-24" : [
+                "Merry Christmas!"
+	      ],
+        "....-12-25" : [
+                "Merry Christmas!"
+	      ],
+        "....-12-26" : [
+                "Merry Christmas!"
+	      ],
+        "....-12-31" : [
+                "Silverster! Let's have a good time!"
+	      ],
+        day_sunny : [
+                "It's a sunny day today", 
+                "It's a beautiful day",
+	      ],
+        day_cloudy: [
+                ""
+        ],
+        cloudy: [
+                ""
+        ],
+        cloudy_windy: [
+                ""
+        ],
+        showers: [
+                ""
+        ],
+	      rain: [
+		            "Don't forget your umbrella"
+	      ],
+        thunderstorm: [
+                ""
+        ],
+	      snow: [
+		            "snowball fight!"
+	      ],
+        fog: [
+                ""
+        ],
+        night_clear: [
+                ""
+        ],
+        night_cloudy: [
+                ""
+        ],
+        night_showers: [
+                ""
+        ],
+        night_rain: [
+                ""
+        ],
+        night_thunderstorm: [
+                ""
+        ],
+        night_snow: [
+                ""
+        ],
+        night_alt_cloudy_windy: [
+                ""
+        ],
+}
