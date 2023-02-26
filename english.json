@@ -38,70 +38,70 @@
         ],
         "....-01-01" : [
                 "Happy New Year!"
-	      ],
+	],
         "....-10-31" : [
                 "Happy Halloween!",
                 "Boo!!!"
-	      ],
+	],
         "....-12-24" : [
                 "Merry Christmas!"
-	      ],
+	],
         "....-12-25" : [
                 "Merry Christmas!"
-	      ],
+	],
         "....-12-26" : [
                 "Merry Christmas!"
-	      ],
+	],
         "....-12-31" : [
                 "Silverster! Let's have a good time!"
-	      ],
-        day_sunny : [
+	],
+        "day_sunny" : [
                 "It's a sunny day today", 
                 "It's a beautiful day",
-	      ],
-        day_cloudy: [
+	],
+        "day_cloudy" : [
                 ""
         ],
-        cloudy: [
+        "cloudy" : [
                 ""
         ],
-        cloudy_windy: [
+        "cloudy_windy" : [
                 ""
         ],
-        showers: [
+        "showers" : [
                 ""
         ],
-	      rain: [
-		            "Don't forget your umbrella"
-	      ],
-        thunderstorm: [
+	"rain" : [
+		"Don't forget your umbrella"
+	],
+        "thunderstorm" : [
                 ""
         ],
-	      snow: [
-		            "snowball fight!"
-	      ],
-        fog: [
+	"snow" : [
+		"snowball fight!"
+	],
+        "fog" : [
                 ""
         ],
-        night_clear: [
+        "night_clear" : [
                 ""
         ],
-        night_cloudy: [
+        "night_cloudy" : [
                 ""
         ],
-        night_showers: [
+        "night_showers" : [
                 ""
         ],
-        night_rain: [
+        "night_rain" : [
                 ""
         ],
-        night_thunderstorm: [
+        "night_thunderstorm" : [
                 ""
         ],
-        night_snow: [
+        "night_snow" : [
                 ""
         ],
-        night_alt_cloudy_windy: [
+        "night_alt_cloudy_windy" : [
                 ""
         ],
 }
